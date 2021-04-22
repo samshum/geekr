@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>导航站</title>
-    <link rel="shortcut icon" href="favcion.ico" />
+    <link rel="shortcut icon" href="faviconicon.ico" />
     <link rel="stylesheet" href="css/iconfont.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
