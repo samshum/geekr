@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html>
     <head>
@@ -22,16 +23,19 @@
             *:focus, *:hover {
                 outline: none;
             }
-            .gitbook-root, .gitbook-splashscreen { position: block; top:0; right: 0; bottom: 0; left: 0; display:flex; width: 100%; height:100%; }
-            .gitbook-root.item{
-                width: 100%;
+            .item{
                 font-size:16px;
-                color:gba(59,69,78,1.00);
+                color:rgb(22, 30, 37);
                 font-family: gitbook-content-font,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
-                
             }
-            [data-loading-indicator="true"] {
-                animation: LoadingIndicator 0.6s ease infinite;
+            .item label{
+                position:absolute;
+                text-align: right;
+                width: 200px;
+            }
+            .item a{
+                margin-left: 210px;
+                position: relative;
             }
         </style>
         <title>看片网站分享</title>
